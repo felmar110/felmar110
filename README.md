@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=felmar110.felmar110"></a>
+  <a href="https://github.com/felmar110" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=felmar110.felmar110"></a>
 </p>
 
 ---
 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+- 👨‍💻 As a Mechatronics Engineering & Software Developer, I'm constantly learning and exploring new technologies to improve my skills.
+- 🌱 I am currently studying for a Master's degree in AI and ML at OBS Business School.
+- 💬 Technology reaches its true value when it starts transforming people's lives. Ask me anything **[here](https://github.com/felmar110/abdoachhoubi/issues/new)** or <a href="mailto:abdo.felmar110@gmail.com"><b>send me an email</b></a>.
 
 ## 🛠 &nbsp;Tech Stack
 
