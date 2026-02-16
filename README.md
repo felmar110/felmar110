@@ -59,7 +59,7 @@
  ### <picture> <img src = "https://github.com/felmar110/felmar110/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
 <p align="center">
   &emsp;
-    <a href="#"><img alt="VS Code" src="https://raw.githubusercontent.com/<usuario>/<repo>/main/Images/vscode-custom.png" height="20"></a>
+    <a href="#"><img alt="VS Code" src="https://raw.githubusercontent.com/<usuario>/<repo>/main/Images/vs_code.png" height="20"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
