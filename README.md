@@ -17,7 +17,8 @@
 
 ---
 
-- 👨‍💻 As a Mechatronics Engineering & Software Developer, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a `Mechatronics Engineering & Software Developer`, I'm constantly learning and exploring new technologies to improve my skills.
+- :nerd_face: Always `learning new things`.
 - 🌱 I am currently studying for a `Master's degree in AI and ML` at OBS Business School.
 - 💬 Technology reaches its true value when it starts transforming people's lives. Ask me anything **[here](https://github.com/felmar110/felmar110/issues/new)** or <a href="mailto:felmar110@gmail.com"><b>send me an email</b></a>.
 
