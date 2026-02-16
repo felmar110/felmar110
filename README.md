@@ -55,9 +55,11 @@
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/felmar110/felmar110/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
+ ### <picture> <img src = "https://github.com/felmar110/felmar110/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
 <p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
@@ -70,8 +72,6 @@
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
 </p>
 
 
