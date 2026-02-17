@@ -74,6 +74,11 @@
 ![LATEX](https://img.shields.io/badge/Latex-008080.svg?style=for-the-badge&logo=latex%20&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0B6623.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 
+#### 🤖 Robotics and Automation
+![TIA-Portal](https://img.shields.io/badge/TIA%20Portal-009999.svg?style=for-the-badge&logo=siemens&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-E1670E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-660099.svg?style=for-the-badge&logo=coppeliasim&logoColor=white)
+
 #### 📚 Libraries
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -86,10 +91,6 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C.svg?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F39C12.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
-#### 🤖 Robotics and Automation
-![TIA-Portal](https://img.shields.io/badge/TIA%20Portal-009999.svg?style=for-the-badge&logo=siemens&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-E1670E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-660099.svg?style=for-the-badge&logo=coppeliasim&logoColor=white)
 
 ## 📊 Profile Statistics
 
