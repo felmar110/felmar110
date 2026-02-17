@@ -62,10 +62,6 @@
  #### 🛠️ Software & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Mysql](https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=Mysql&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -74,15 +70,24 @@
 ![LATEX](https://img.shields.io/badge/Latex-008080.svg?style=for-the-badge&logo=latex%20&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0B6623.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 ![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-009688.svg?style=for-the-badge&logo=OrcaSlicer&logoColor=white)
-![Universal GCode](https://img.shields.io/badge/Universal%20Gcode-0B6623.svg?style=for-the-badge&logo=Universal-Gcode&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
 ![Proteus](https://img.shields.io/badge/Proteus-1F62AE.svg?style=for-the-badge&logo=proteus&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F0.svg?style=for-the-badge&logo=easyeda&logoColor=white)
+
+#### 🗄️☁️ Databases and Cloud Hosting
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Mysql](https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=Mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0F80CC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 #### 🤖 Robotics and Automation
 ![TIA-Portal](https://img.shields.io/badge/TIA%20Portal-009999.svg?style=for-the-badge&logo=siemens&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-E1670E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-660099.svg?style=for-the-badge&logo=coppeliasim&logoColor=white)
+![Universal GCode](https://img.shields.io/badge/Universal%20Gcode-0B6623.svg?style=for-the-badge&logo=Universal-Gcode&logoColor=white)
 
 #### 📚 Libraries
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
