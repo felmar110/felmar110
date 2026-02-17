@@ -79,8 +79,17 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Tensor-Flow](https://img.shields.io/badge/Tensor%20Flow-%23E20000.svg?style=for-the-badge&logo=tensor-flow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23E20000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
+#### 📚 CAD
+![Solid Works](https://img.shields.io/badge/Solid%20Works-%23013243.svg?style=for-the-badge&logo=Solid-Works&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23150458.svg?style=for-the-badge&logo=Fusion-360&logoColor=white)
 
+#### 📚 Robotics and Automation
+![TIA-Portal](https://img.shields.io/badge/tia%20portal-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-%23E20000.svg?style=for-the-badge&logo=Matlab&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-%23E20000.svg?style=for-the-badge&logo=CoppeliaSim&logoColor=white)
 
 ## 📊 Profile Statistics
 
