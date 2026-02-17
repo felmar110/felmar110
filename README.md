@@ -56,7 +56,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/felmar110/felmar110/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 <p align="center">
   &emsp;
     <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual%20studio%20code&logoColor=white"></a>
