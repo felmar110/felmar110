@@ -131,20 +131,6 @@
  ### 📈 Activity Graph
  
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felmar110&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=felmar110&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=felmar110&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
