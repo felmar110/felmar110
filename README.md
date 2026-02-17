@@ -102,7 +102,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-#### 🧩 CAD
+#### 🧩 CAD, CAM, CAE
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C.svg?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F39C12.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
