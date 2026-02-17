@@ -32,9 +32,10 @@
 	<a href="https://www.instagram.com/andresmarcillo110/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-## 🛠 &nbsp;My Skills
+## 🛠 &nbsp;My Technical Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 10px>  </picture> Programming languages
+#### 📚 Programming languages
 
 <p align="center"> 
   &emsp; 
