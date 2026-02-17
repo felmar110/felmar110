@@ -70,8 +70,8 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LATEX](https://img.shields.io/badge/Latex%20XD-006400.svg?style=for-the-badge&logo=latex%20&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-00AA00.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
+![LATEX](https://img.shields.io/badge/Latex%20XD-008080.svg?style=for-the-badge&logo=latex%20&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0B6623.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
 
  
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
