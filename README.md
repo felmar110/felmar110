@@ -34,7 +34,7 @@
 
 ## 🛠 &nbsp;My Technical Skills
 
-#### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming Languages
+#### 🖥️ Programming Languages
 
 <p align="center"> 
   &emsp; 
@@ -59,7 +59,7 @@
   </a> 
 </p>
 
- #### 📚 Software & Tools
+ #### 🛠️ Software & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -82,11 +82,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
-#### 📚 CAD
+#### 🧩 CAD
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C.svg?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-F39C12.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 
-#### 📚 Robotics and Automation
+#### 🤖 Robotics and Automation
 ![TIA-Portal](https://img.shields.io/badge/TIA%20Portal-009999.svg?style=for-the-badge&logo=siemens&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-E1670E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-660099.svg?style=for-the-badge&logo=coppeliasim&logoColor=white)
