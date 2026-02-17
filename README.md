@@ -79,8 +79,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Tensor-Flow](https://img.shields.io/badge/Tensor%20Flow-%FF6F00.svg?style=for-the-badge&logo=tensor-flow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
 #### 📚 CAD
 ![Solid Works](https://img.shields.io/badge/Solid%20Works-%DA291C.svg?style=for-the-badge&logo=Solid-Works&logoColor=white)
