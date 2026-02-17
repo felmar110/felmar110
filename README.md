@@ -73,6 +73,11 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LATEX](https://img.shields.io/badge/Latex-008080.svg?style=for-the-badge&logo=latex%20&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0B6623.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
+![OrcaSlicer](https://img.shields.io/badge/OrcaSlicer-009688.svg?style=for-the-badge&logo=OrcaSlicer&logoColor=white)
+![Universal GCode](https://img.shields.io/badge/Universal%20Gcode-0B6623.svg?style=for-the-badge&logo=Universal-Gcode&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=inkscape&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-1F62AE.svg?style=for-the-badge&logo=proteus&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F0.svg?style=for-the-badge&logo=easyeda&logoColor=white)
 
 #### 🤖 Robotics and Automation
 ![TIA-Portal](https://img.shields.io/badge/TIA%20Portal-009999.svg?style=for-the-badge&logo=siemens&logoColor=white)
