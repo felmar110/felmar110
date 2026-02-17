@@ -106,21 +106,6 @@
 ## 📊 Profile Statistics
 
 <details>
-  <summary>📈 General GitHub Stats</summary>
-  <div align="center">
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=felmar110&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
-
-  <br><br>
-
-  </div>
-</details>
-
----
-
-<details>
   <summary>💳 GitHub Profile Summary Card</summary>
   <div align="center">
 
@@ -166,7 +151,7 @@
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
-------
+</div>
 
 Credit: [felmar110](https://github.com/felmar110)
 
