@@ -88,7 +88,10 @@
 ![Matlab](https://img.shields.io/badge/Matlab-E1670E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-660099.svg?style=for-the-badge&logo=coppeliasim&logoColor=white)
 ![Universal GCode](https://img.shields.io/badge/Universal%20Gcode-0B6623.svg?style=for-the-badge&logo=Universal-Gcode&logoColor=white)
-![Universal cncjs](https://img.shields.io/badge/cncjs-F7B500.svg?style=for-the-badge&logo=cncjs&logoColor=black)
+![Universal cncjs](https://img.shields.io/badge/CNCjs-0F4C75.svg?style=for-the-badge&logo=cncjs&logoColor=white)
+![Universal Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Universal STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
 
 #### 📚 Libraries
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
