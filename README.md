@@ -105,35 +105,63 @@
 
 ## 📊 Profile Statistics
 
- <div align=center>
+<details>
+  <summary>📈 General GitHub Stats</summary>
+  <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=felmar110&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+  <br>
 
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felmar110&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felmar110&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=felmar110&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile" />
 
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felmar110&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
+  <br><br>
 
+  </div>
+</details>
+
+---
+
+<details>
+  <summary>💳 GitHub Profile Summary Card</summary>
+  <div align="center">
+
+  <br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felmar110&theme=github_dark" />
+
+  <br><br>
+
+  </div>
+</details>
+
+---
+
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <div align="center">
+
+  <br>
+
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=felmar110&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+  </a>
+
+  <br><br>
+
+  </div>
+</details>
+
+---
+
+<details>
+  <summary>📊 Activity Graph</summary>
+
+  <br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=felmar110&theme=react-dark" />
+
+  <br><br>
+
+</details>
 ---
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
