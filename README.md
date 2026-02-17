@@ -70,7 +70,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![LATEX](https://img.shields.io/badge/Latex%20XD-%00AA00.svg?style=for-the-badge&logo=latex%20xd&logoColor=white)
+![LATEX](https://img.shields.io/badge/Latex%20XD-00AA00.svg?style=for-the-badge&logo=latex%20xd&logoColor=white)
 
  
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
