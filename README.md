@@ -60,12 +60,9 @@
 </p>
 
  #### 🛠️ Software & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![LATEX](https://img.shields.io/badge/Latex-008080.svg?style=for-the-badge&logo=latex%20&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-0B6623.svg?style=for-the-badge&logo=Google-Sheets&logoColor=white)
@@ -76,7 +73,6 @@
 
 #### 🗄️☁️ Databases and Cloud Hosting
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 ![Mysql](https://img.shields.io/badge/Mysql-00758F.svg?style=for-the-badge&logo=Mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F.svg?style=for-the-badge&logo=databricks&logoColor=white)
@@ -88,9 +84,9 @@
 ![Matlab](https://img.shields.io/badge/Matlab-E1670E.svg?style=for-the-badge&logo=mathworks&logoColor=white)
 ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-660099.svg?style=for-the-badge&logo=coppeliasim&logoColor=white)
 ![Universal GCode](https://img.shields.io/badge/Universal%20Gcode-0B6623.svg?style=for-the-badge&logo=Universal-Gcode&logoColor=white)
-![Universal cncjs](https://img.shields.io/badge/CNCjs-0F4C75.svg?style=for-the-badge&logo=cncjs&logoColor=white)
-![Universal Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-![Universal STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![cncjs](https://img.shields.io/badge/CNCjs-0F4C75.svg?style=for-the-badge&logo=cncjs&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 
 #### 📚 Libraries
